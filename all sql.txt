@@ -1,0 +1,43 @@
+SQL- structure query language
+sql is a standard, declarative programming lang used to manage and manipulates data stored in relational database 
+
+Database- is an organised collection of structrued data, typically stored in electronically.
+DBMS-database management system 
+dbms is a software that is used to store,manage, organize and retrive data efficiently
+dbms allows to user- save data, delete data, update and search data and manage multiple user accessing data
+  
+RDBMS-relational database management system 
+rdbms is type of dbms where data is stored in form of tables (rows and columns) and these tables are related to
+each other using key like primary key and foreign key
+
+DDL- data defination lang
+defines and modifies structure related dabases object like table and schemes
+in ddl only structure related operation will be perform
+create- create dabase, table and view
+alter- modifies structure of an existing table
+drop - delete table or dabase
+truncate - delete all data from table but structure remains
+
+DML- data manipulation lang
+manipulate the data inside table 
+in dml all data related operation will be perform
+insert- insert new records
+update- modifies existing data
+delete- delete data 
+
+DCL- data control lang 
+control acess and permisssion of the database
+grant- give user acccess
+revoke- remove user access
+
+DQL- data query lang
+query the database to fetch  data
+select - retrive data from table
+
+TCL- transaction control lang
+manage transactions group of sql statements executed together
+commit- update permanently 
+rollback- undo changes
+
+
+
