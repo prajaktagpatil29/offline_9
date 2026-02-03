@@ -1,0 +1,20 @@
+What is git?
+Ans. Git is a distributed version control system.
+
+it tracks:
+. Changes to file
+. Who made them
+. When thy were made 
+. Lets you go to back in time 
+. Allows multiple people to work together safely..
+
+
+what is GitHub?
+Ans. GitHub is a cloud platform that hosts Git repositories
+
+It adds:
+. Remote storage
+. Collabration
+. Pull Requests
+. Issues & discussins
+. CI/CD, actions,project management
